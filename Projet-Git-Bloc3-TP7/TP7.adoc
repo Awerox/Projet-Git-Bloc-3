@@ -46,6 +46,8 @@ Cette instruction force l'application à utiliser uniquement la méthode **POST*
 
 ---
 
+image::defi1.png[Capture d'écran du 1er Defi, align="center"]
+
 == 💾 Deuxième défi : XSS permanent via une page affichant des logs
 
 * **Réussite au niveau 5 :** Non. Contrairement au niveau 0, le code malveillant injecté ne s'exécute pas dans le navigateur de la victime. Il s'affiche simplement comme du texte inoffensif.
